@@ -1,0 +1,15 @@
+img{
+    opacity: 0.5;
+    width: 100vh;
+    height: 100vh;
+    
+
+}
+img:hover{
+    opacity: 1;
+}
+.photo{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

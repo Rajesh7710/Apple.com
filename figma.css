@@ -1,0 +1,64 @@
+/**{
+overflow: hidden;
+}*/
+
+.col1{
+    background-color: whitesmoke;
+    height: 90vh;
+    h1{
+        margin: 70px;
+        color: blue;
+        font-size: 30px;
+    }
+    p{
+        font-size: 36px;
+        color: blue;
+    
+}
+.col2{
+    background-color: rgb(213, 97, 97);
+    height:90vh ;
+  
+}
+
+.btn button{
+    padding: 9px;
+    height: 40px;
+    width: 80px; ;
+    border: none;
+    color: azure;
+    background-color: blue;
+
+
+}
+.btn :hover{
+    background-color:darkkhaki
+}
+
+.con p{
+    font-size: 20px;
+    color: black;
+    display: flex;
+}
+.rem{
+   text-align: left;
+}
+.add input{
+    height: 60px;
+    width: 500px;
+}
+.For{
+text-align: right;
+}
+.pass{
+    margin-left: 25vh;
+}
+.fb{
+    margin-left: 5vh;
+}
+.ln{
+    margin-left: 5vh;
+}
+.Go{
+    margin-left: 5vh;
+}

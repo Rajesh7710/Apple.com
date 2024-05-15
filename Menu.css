@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0px;
+
+}
+.Menu{
+    width: 150px;
+    background-color: aliceblue;
+    overflow: auto;
+    border: 5px solid black;
+    
+
+}
+.Menu a{
+    background-color: dimgray;
+    width: 90px;
+    float: left;
+    height: 70px;
+    padding:30px;
+    font-size: 80px;
+    color: black
+    
+
+}
+.Menu :hover{
+background-color: cyan;
+}
+.icon{
+    justify-content: center;
+    display: flex;
+}

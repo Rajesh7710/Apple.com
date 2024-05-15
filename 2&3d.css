@@ -1,0 +1,20 @@
+.bye{
+    height: 40vh;
+    width: 40vh;
+    background-color: red;
+    transition: width 2s, height 4s;
+    text-align: center;
+
+
+}
+.bye:hover{
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 25vh;
+}
